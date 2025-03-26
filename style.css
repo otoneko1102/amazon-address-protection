@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap');
+
+* {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+html {
+  background-color: #131921;
+  color: #ffffff;
+  width: 300px;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+#amazon-tld {
+  font-size: 14px;
+}
+
+h2 {
+  font-size: 16px;
+}
+
+#title-protection {
+  color: #0578ff;
+}
+
+label {
+  font-size: 16px;
+  color: #ff9900;
+}
+
+#checkbox-background {
+  background-color: #232f3e;
+  padding: 20px;
+}
